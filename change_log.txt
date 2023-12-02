@@ -1,0 +1,9 @@
+v4.03
+- changed continent labels (dark halo - white font)
+- changed place country_1,2,3 to more dark yellowish color
+- changed ice to darker gray
+- changed park color to more dark green
+- changed water to darker blue
+-- Need to work on place_village
+-- work on building outline
+-- work on river labels
